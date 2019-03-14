@@ -1,7 +1,6 @@
 # GroceryListV1
 A program written in C++ that accepts user input and formats it into a list, which is then sent to a text file.
 
-
 Open GroceryList_V1.cpp to view the main function which includes all of the code created by the programmer.
 
 The other files are also necessary, but are default files created by the IDE, Visual Studio Community 2017.
